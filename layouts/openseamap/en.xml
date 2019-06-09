@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+    <layout name="root">
+			<row>
+			<button type="textnote"/>
+		</row>
+		<row>
+			<button type="voicerec" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+        <row>
+            <button type="tag" label="Beacon Red" icon="openseamap_icons/Beacon_Red.png" />
+			<button type="tag" label="Can Red" icon="openseamap_icons/Can_Red.png" />
+			<button type="tag" label="Cone Green" icon="openseamap_icons/Cone_Green.png" />
+			<button type="tag" label="Beacon Green" icon="openseamap_icons/Beacon_Green.png" />
+        </row>
+            <button type="tag" label="North Cardinal" icon="openseamap_icons/Pillar_Black_Yellow.png" />
+			<button type="tag" label="East Cardinal" icon="openseamap_icons/Pillar_Black_Yellow_Black.png" />
+			<button type="tag" label="South Cardinal" icon="openseamap_icons/Pillar_Yellow_Black.png" />
+			<button type="tag" label="West Cardinal" icon="openseamap_icons/Pillar_Yellow_Black_Yellow.png" />		
+        <row> 
+            <button type="tag" label="North Cardinal Top" icon="openseamap_icons/CardNButton.png" />
+			<button type="tag" label="East Cardinal Top" icon="openseamap_icons/CardEButton.png" />
+			<button type="tag" label="South Cardinal Top" icon="openseamap_icons/CardSButton.png" />
+			<button type="tag" label="West Cardinal Top" icon="openseamap_icons/CardWButton.png" />
+        </row>
+        <row>
+            <button type="tag" label="Isolated Danger Mark" icon="openseamap_icons/IsolButton.png" />
+			<button type="tag" label="Safe Water Mark" icon="openseamap_icons/CardEButton.png" />
+			<button type="tag" label="South Cardinal" icon="openseamap_icons/CardSButton.png" />
+			<button type="tag" label="West Cardinal" icon="openseamap_icons/CardWButton.png" />
+        </row>
+    </layout>
+</layouts>
